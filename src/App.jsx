@@ -1,13 +1,13 @@
 import { useState } from 'react'
 import React from 'react'
 import './App.css'
-import { data } from './ultis/constants'
+import { animeList } from './ultis/constants'
 import Header from './Components/Header/Header'
 import Banner from './Components/Banner/Banner'
 import List from './Components/List/List'
 
 function App() {
-  // const [data, setData] = useState(...data);
+  const [data, setData] = useState([...animeList]);
   const [selectedId, setSelectedId] = useState(1);
 
   return (

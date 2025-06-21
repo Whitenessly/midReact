@@ -1,11 +1,11 @@
 
-export const data = [
+export const animeList = [
     {
         id: 1,
         movieName: "Weather With You",
         description: "Mùa hè năm đầu cấp Ba, Hodaka bỏ nhà ra đi. Cậu từ một hòn đảo xa xôi hẻo lánh đến Tokyo, nhưng sau đó nhanh chóng rơi vào cảnh túng thiếu và phải sống chuỗi ngày cô đơn. Nhưng cuối cùng cậu đã tìm được công việc: viết bài cho một tạp chí huyền bí. Sau khi cậu bắt đầu công việc, mưa cứ rơi mãi rơi mãi không thôi. Ở một góc thành phố đông đúc và nhộn nhịp, Hodaka đã gặp thiếu nữ tên Hina. Cô sống cùng em trai, luôn vui vẻ và kiên cường. Cô cũng có một sức mạnh vô cùng đặc biệt: “Này, từ bây giờ trời hãy hửng nắng đi nào.” Từng chút một, mưa ngừng rơi, và ánh sáng tuyệt đẹp rọi chiếu những nóc nhà trong thành phố. Chỉ bằng một lời cầu nguyện, cô đã khiến bầu trời trở nên sáng trong.",
         image: "https://upload.wikimedia.org/wikipedia/en/6/66/Weathering_with_You_Poster.jpg",
-        banner: "https://cdn2.tuoitre.vn/471584752817336320/data/teen360/pictures/2019/07/24/1563939196_yourname-heading.jpg",
+        banner: "https://m.media-amazon.com/images/S/pv-target-images/eda244e60652bf3c321ca08f1ee5af0af3ee22513117191ea321ea55252cba52.jpg",
         episode: 1
     },
     {
@@ -21,7 +21,7 @@ export const data = [
         movieName: "Boruto: Naruto Next Generations",
         description: "Boruto: Naruto Next Generations kể về thế hệ sau của Naruto. Bộ phim vẫn lấy bối cảnh là thế giới Ninja nhưng nhân vật chính lần này lại là Uzumaki Boruto, con trai của Uzumaki Naruto và Hyuga Hinata. Đồng hành cùng Naruto trong lần quay lại này là Sarada Uchiha là con gái của Sasuke Uchiha, Sakura Haruno và Mitsuki – “con” của Orochimaru.",
         image: "https://s3-alpha-sig.figma.com/img/14e9/6cd4/177b17eb1ee85d84d09efcc0fa3e1b69?Expires=1751241600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=FIVAYsARHiM5MDQ8sPvQOQdEe8xrUGQtUEQveC3rNp6S~fdhyyeWfECReA2FFgWB1VexXUb2YhquxYnWEs3cDoy1QSbEBIrzF~vvXsgB0HGxYLaIjXD1aCuZjNh7LQvHrjUS7x2ij5dbxqE1KJIUDeMKZ-DBZBufLimORoSnkXuRs53c8BsZEwAqhpHVwf-qMJkFkcKlIC8Rpv7I2GarNiOpW34ArwFHVoG-NR0x6BccDDNERPfakP1JyZf1LEzwuEExOFjecPLsbN4y6RDhzne7i0lZgTXEDvdajSyQMbXe1ZJ3aG60-Nmo7YnPiBLz6QfzF9sJ5fKRtU7-beqaLA__",
-        banner: "https://m.media-amazon.com/images/S/pv-target-images/271f736a0715491d50f0fa3cc9994ba0ec37bff7c2f8d42b286136692cbb0200._BR-6_AC_SX720_FMjpg_.jpg",
+        banner: "https://pbs.twimg.com/media/FVD8CcNWQAEtRiL.jpg",
         episode: 250
     },
     {
@@ -37,7 +37,7 @@ export const data = [
         movieName: "Shingeki no kyojin",
         description: "Câu chuyện của Đại chiến Titan tập trung vào một nền văn minh bên trong ba bức tường đồ sộ quây tròn đồng tâm, nơi được cho là duy nhất mà nhân loại còn tồn tại. Ba bức tường được đặt tên theo tên ba người con gái của vị vua đầu tiên có tên là Maria, Rose và Sina. Người dân ở đó, được gọi là dân tộc Eldia, đã tin rằng hơn một trăm năm trước, loài người đã bị đẩy đến bờ vực tuyệt chủng sau sự xuất hiện của những người khổng lồ hình dáng con người, được gọi là Titan.",
         image: "https://s3-alpha-sig.figma.com/img/f045/43fa/554deceb9b7c888745b5f43729a208d3?Expires=1751241600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=fVcd~GbZMefHaKV3APHUsczhfxLT5glYZNdfIFcB9Xj-~zbI2vIDhZBPabsx-1BxBexUvaI3lb0oRnst9J5vCfSriGgv5RLX2ZgAOv2N~Tdp0X6tPyviInfdidWobkPeMyt9BTlmDLFVsyRHwlD2mD4f2c5q~JKNREcJxE4oyfv9mu-dys00TdV0Wu2JDWF2fsB2RiPQKVKgsonjzL6ZVLloeCOTPF3PBsDlmcoZFX0vqZtrSLEK0JnlQCGXb-ujzb8irKwFv~3XXbHYXNPUdeZ7yjP3Bm7--RiZGcs82~j8TKx4cfVWT34cw2y5n7WjH7UFCtdfdnqF--OF-a1o6g__",
-        banner: "https://itswynnesworld.com/wp-content/uploads/2019/08/attack-on-titan-e1527514276391-625x352.jpg",
+        banner: "https://www.themarysue.com/wp-content/uploads/2014/09/Attack-On-Titan.jpg",
         episode: 28
     },
     {
